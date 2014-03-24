@@ -4,15 +4,15 @@ SdeSocorro
 App para socorro
 
 GPS
--Ligar GPS automaticamente
--Obter Latitude e Longitude
--Obter endereço fisico
+1 Ligar GPS automaticamente
+2 Obter Latitude e Longitude
+3 Obter endereço fisico
 
 GESTURE
--Reconhecer Gesture Destro (Feito)
--Reconhecer Gesture Destro por baixo
--Reconhecer Gesture Canhoto
--Reconhecer Gesture Canhoto por baixo
+1 Reconhecer Gesture Destro (Feito)
+2 Reconhecer Gesture Destro por baixo (Feito)
+3 Reconhecer Gesture Canhoto (Feito)
+4 Reconhecer Gesture Canhoto por baixo (Feito)
 
 SMS
 -Enviar sms para numeros cadastrados com informações do gps, telefone e nome da pessoa
